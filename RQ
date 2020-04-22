@@ -1,6 +1,6 @@
 killall screen
 while(true) do
 rm -fr ../.telegram-cli
-screen ./IRAQ.sh
+screen ./kaler.sh
 done
-echo -e "IRAQ IS RUN BOT"
+echo -e "kaler IS RUN BOT"
